@@ -26,7 +26,7 @@ Table of Contents
   Setup Instructions
   
 1- Clone the Repository
-- git clone https://github.com/tihamit/coindcx-websocket.git
+- git clone https://github.com/tihamit/CoinDCX-API.git
 
 - cd coindcx-websocket
 
