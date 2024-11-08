@@ -1,4 +1,4 @@
-                                                     CoinDCX WebSocket Trading Application
+    CoinDCX WebSocket Trading Application
  **Overview**
 This Java application connects to the CoinDCX WebSocket API to fetch real-time trading data and prepares payloads for order operations based on user-defined trigger prices. 
 The application features a command-line interface (CLI) for user interaction.
